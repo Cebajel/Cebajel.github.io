@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cebajel_tanan.github.io/sitemap.xml
+Sitemap: https://Cebajel.github.io/sitemap.xml

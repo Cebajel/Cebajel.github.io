@@ -139,7 +139,12 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Gujarati",
       "fluency": "Native speaker",
       "icon": ""
     },

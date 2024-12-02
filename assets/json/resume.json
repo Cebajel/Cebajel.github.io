@@ -24,13 +24,15 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Texas Instruments",
+      "position": "Software Development Intern",
+      "url": "https://www.ti.com",
+      "startDate": "2024-May-05",
+      "endDate": "2024-July-05",
+      "highlights": ["Designed a python program which fetched information from Jira, Confluence and Klocwork servers and generated a report to analyze pending issues to be implemented.",
+                       "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of 8-10 hours to 22-30 minutes.", 
+                       "Received a Pre-Placement Offer (PPO) based on outstanding performance and contributions.", 
+                       "Skills Acquired: JIRA, Klocwork, Confluence"]
     }
   ],
   "education": [

@@ -32,7 +32,7 @@
       "endDate": "2024-July-05",
       "highlights": ["Designed a python program which fetched information from Jira, Confluence and Klocwork servers and generated a report to analyze pending issues to be implemented.",
                        "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of <b>8-10 hours to 22-30 minutes</b>.", 
-                       "Received a Pre-Placement Offer (PPO) based on outstanding performance and contributions.", 
+                       "Received a <b>Pre-Placement Offer (PPO)</b> based on outstanding performance and contributions.", 
                        "<b>Skills Acquired:</b> JIRA, Klocwork, Confluence"]
     }
   ],

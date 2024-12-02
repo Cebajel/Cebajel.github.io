@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.iitdh.ac.in'>IIT Dharwad</a>. Karnataka, India.
+subtitle: <a href='https://www.iitdh.ac.in'>BTech. CSE IIT Dharwad</a>. Karnataka, India.
 
 profile:
   align: right

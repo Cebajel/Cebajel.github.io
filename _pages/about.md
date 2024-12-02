@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.iitdh.ac.in'>IIT Dharwad</a>. Karnataka, India.
 
 profile:
   align: right

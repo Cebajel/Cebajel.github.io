@@ -38,15 +38,17 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Technology, Dharwad, India",
+      "location": "Karnataka, India",
+      "url": "https://www.iitdh.ac.in",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2021-November",
+      "endDate": "2025-May",
+      "score": "9.74",
+      "courses": ["Data Strucutres and Algorithms", "Design and Analysis of Algorithms", "Discrete Structures", 
+        "Linear Algebra", "Computer Architecture", "Operating Systems", "Computer Networks", "Software Defined Networking",
+         "Artificial Intelligence", "Mathematics for Data Science", "Probability Models and Applications"]
     }
   ],
   "certificates": [

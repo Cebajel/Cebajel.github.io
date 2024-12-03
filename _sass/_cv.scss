@@ -97,6 +97,14 @@ div.list-groups {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
+  flex-direction: row;
+  align-content: center;
+}
+
+div.list-groups-skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   flex-direction: column;
   align-content: center;
 }

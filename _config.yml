@@ -648,4 +648,6 @@ jsonresume:
   - skills
   - languages
   - interests
+  - achievements
+  - extracurricular
   - references

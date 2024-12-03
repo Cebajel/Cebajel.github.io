@@ -47,7 +47,7 @@
       "score": "9.74",
       "courses": ["Data Strucutres and Algorithms", "Design and Analysis of Algorithms", "Discrete Structures", 
         "Linear Algebra", "Computer Architecture", "Operating Systems", "Computer Networks", "Software Defined Networking",
-         "Artificial Intelligence", "Mathematics for Data Science", "Probability Models and Applications"]
+         "Artificial Intelligence", "Mathematics for Data Science", "Probability Models and Applications", "Deep Learning"]
     }
   ],
   "certificates": [

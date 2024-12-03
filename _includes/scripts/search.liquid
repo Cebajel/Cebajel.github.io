@@ -72,6 +72,7 @@
           {%- endif -%}
         {%- endif -%}
       {%- endfor -%}
+      {% comment %}
       {%- for post in site.posts -%}
         {
           {%- assign title = post.title | escape | strip -%}
@@ -96,8 +97,9 @@
           },
         },
       {%- endfor -%}
+      {% endcomment %}
       {%- for collection in site.collections -%}
-        {%- if collection.label != 'posts' -%}
+        {%- if collection.label != 'posts' and collection.label != 'news' -%}
           {%- for item in collection.docs -%}
             {
               {%- if item.inline -%}

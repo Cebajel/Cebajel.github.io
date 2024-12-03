@@ -28,21 +28,30 @@
       "position": "Cybersecurity Intern",
       "startDate": "2023-05",
       "highlights": ["Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
-                       "Designed application queries <b>150</b> grey list databases for evaluating host reputation.", 
-                       "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
-                       "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
-                       "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
+                      "Designed application queries <b>150</b> grey list databases for evaluating host reputation.", 
+                      "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
+                      "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
+                      "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
     },
     {
       "name": "Automated Timetable Scheduler",
       "location": "Dharwad, India",
       "position": "Research Intern",
-      "startDate": "2023-05",
-      "highlights": ["Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
-                       "Designed application queries <b>150</b> grey list databases for evaluating host reputation.", 
-                       "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
-                       "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
-                       "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
+      "startDate": "2023-01",
+      "endtDate": "2023-09",
+      "highlights": ["Developed a framework capable of creating a timetable catering to needs of any institute considering all general constraints for students, professors, campus, venue capacity etc.",
+                      "Framework easily handles <b>16</b> different constraints on <b>100+ courses</b> and <b>6000+ registrations</b>!", 
+                      "<b>Skills Acquired:</b> Gurobi, Multi-Objective Optimisation, Constraint Satisfaction Problems, Python"]
+    },
+    {
+      "name": "Bacterial Resistance Prediction",
+      "location": "Dharwad, India",
+      "position": "Data Science Intern",
+      "startDate": "2023-01",
+      "endtDate": "2023-11",
+      "highlights": ["Used several ML models for analyzing Raman spectroscopy data from 3 bacterial strains.",
+                      "Developed an application which classifies bacterial resistance against Colistin with <b>97% accuracy</b> using Raman spectroscopy data.", 
+                      "<b>Skills Acquired:</b> Deep Neural Networks, Convolutional Neural Networks, Machine Learning, Orange3, Python"]
     }
     
   ],
@@ -177,6 +186,7 @@
         "Convolution Neural Networks",
         "Recommender Systems",
         "Deep Neural Networks",
+        "Machine Learning",
         "Generative Adversarial Networks",
         "Time Series Analysis",
         "Constraint Satisfaction Problems",

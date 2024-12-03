@@ -41,47 +41,45 @@
   "certificates": [
     {
       "name": "Machine Learning Specialization",
-      "startDate": "2022-11",
-      "endDate": "2022-12",
-      "issuer": "Coursera and DeepLearning.AI",
+      "date": "2022-12",
+      "issuer": "Completed 8 different courses",
       "url": "https://www.coursera.org/account/accomplishments/specialization/V7KVWXMG5HAQ",
-      "icon": "fa-solid fa-certificate",
-      "summary": "Completed 8 different courses"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
       "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Google Cybersecurity",
+      "date": "2023-07",
+      "issuer": "Cybersecurity Course by Google",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/WKTR2UPXJH7X",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "name": "Google Cybersecurity Badge",
+      "date": "2023-07",
+      "issuer": "Badge awarded for completing Google Cybersecurity Course",
+      "url": "https://www.credly.com/badges/dd2b5dae-45f8-4b07-9031-b2aced5062c6/linked_in_profile",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "name": "CERTIn Certificate",
+      "date": "2023-12",
+      "issuer": "12th Inter IIT Tech Meet hosted by IIT Madras",
+      "url": "https://drive.google.com/file/d/14EunSJ9TLRpz6diLZzsBaX1VV79x8T9Q/view",
+      "icon": "fa-solid fa-certificate"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "ICEI Certificate",
+      "date": "2024-11",
+      "issuer": "Awarded for presenting paper and poster at IEEE Conference on Engineering Informatics (ICEI), Dharwad",
+      "url": "https://drive.google.com/file/d/1AIyZ_U7eRqvttKROqsKNjo49vfsTCJg6/view",
+      "icon": "fa-solid fa-certificate"
+    },
+    {
+      "name": "Indo-Finnish Joint Course Certificate",
+      "date": "2024-11",
+      "issuer": "Awarded for delivering a lecture on significance of Game Theory in sustainable development at Indo-Finnish Joint Course 2024.",
+      "url": "https://drive.google.com/file/d/1yehDq91TkSm3NUS-mBs7Gnf3oqubEG6C/view",
+      "icon": "fa-solid fa-certificate"
     }
   ],
   "publications": [

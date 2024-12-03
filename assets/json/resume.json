@@ -190,18 +190,32 @@
   ],
   "achievements": [
     {
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "summary": "Achieved <b>GPA 10</b> on a scale of 10 in <b>two consecutive</b> semesters in bachelors.",
+      "startDate": "2022-08",
+      "endDate": "2023-04"
+    },
+    {
+      "summary": "Performed in <b>top 1%</b> Class XII Gujarat State Board examination.",
+      "highlights": ["<b>Awarded Scholarship</b> for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) scheme"],
+      "startDate": "2020-04"
+    },
+    {
+      "summary": "Secured 3rd place in lawn tennis at the Khel Maha Kumbh Gujarat.",
+      "startDate": "2017-10"
     }
   ],
   "extracurricular": [
     {
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "summary": "<b>Delivered a lecture</b> on significance of game theory on sustainable development at Indo-Finnish Joint Course held at IIT Dharwad.",
+      "startDate": "2024-09"
+    },
+    {
+      "summary": "<b>Represented</b> IIT Dharwad at <b>12th Inter-IIT Tech Meet</b> hosted by IIT Madras.",
+      "startDate": "2023-12"
+    },
+    {
+      "summary": "<b>Participated</b> in Inter Hostel General Championship 2022 in <b>lawn tennis</b>.",
+      "startDate": "2023-12"
     }
   ]
 }

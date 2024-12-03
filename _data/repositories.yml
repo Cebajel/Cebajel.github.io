@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Cebajel
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Cebajel/CS-314_Assignments
+  - Cebajel/Moisture-Minds
+  - Cebajel/p21-graphs
+  - Cebajel/Booklib
+  - karthikprocoder/DBIS-UberCabs
+  - IITDhCSE/cs601pa1-Cebajel
+  - IITDhCSE/cs601pa2-Aditya-iitdh
+  - Cebajel/Intrusion_Simulator

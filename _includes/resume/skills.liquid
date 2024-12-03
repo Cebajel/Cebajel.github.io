@@ -11,16 +11,8 @@
             {% else %}
               <td class="list-group-category-icon"></td>
             {% endif %}
-            <!-- Calculate colspan number for category title -->
-            {% assign i = 1 %}
-            {% for item in content.items %}
-              {% assign i = i | plus: 1 %}
-            {% endfor %}
-            <td colspan="{{ i }}" class="list-group-category">{{ content.name }}</td>
-          </tr>
-          <tr>
-          <td></td>
-          <td>{{ content.keywords | join: ',' }}</td>
+            <td class="list-group-category">{{ content.name }}</td>
+            <td>{{ content.keywords | join: ',' }}</td>
           </tr>
         </tbody>
       </table>

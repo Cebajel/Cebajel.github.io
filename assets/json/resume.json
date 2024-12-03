@@ -176,16 +176,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Flute",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Speed Cubing",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Chess",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "achievements": [

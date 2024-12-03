@@ -102,10 +102,8 @@
                 <li class="nav-item {% if page.url contains parent_link %}active{% endif %}">
                   {%- if p.permalink contains '://' -%}
                     {%- assign url = p.permalink -%}
-                  {% comment %}
                   {%- elsif p.permalink contains '/blog/' -%}
                     {%- assign url = '/blog/' -%}
-                  {% endcomment %}
                   {%- else -%}
                     {%- assign url = p['url'] -%}
                   {%- endif %}

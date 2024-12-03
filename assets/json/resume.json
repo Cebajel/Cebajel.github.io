@@ -32,6 +32,17 @@
                        "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
                        "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
                        "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
+    },
+    {
+      "name": "Automated Timetable Scheduler",
+      "location": "Dharwad, India",
+      "position": "Research Intern",
+      "startDate": "2023-05",
+      "highlights": ["Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
+                       "Designed application queries <b>150</b> grey list databases for evaluating host reputation.", 
+                       "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
+                       "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
+                       "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
     }
     
   ],
@@ -155,7 +166,8 @@
         "JIRA",
         "Confluence",
         "Klocwork",
-        "Orange3"
+        "Orange3",
+        "Gurobi"
       ]
     },
     {
@@ -166,7 +178,9 @@
         "Recommender Systems",
         "Deep Neural Networks",
         "Generative Adversarial Networks",
-        "Time Series Analysis"
+        "Time Series Analysis",
+        "Constraint Satisfaction Problems",
+        "Multi-Objective Optimization"
       ]
     }
   ],

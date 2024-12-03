@@ -17,21 +17,25 @@
       "url": "https://www.ti.com",
       "startDate": "2024-05",
       "endDate": "2024-07",
-      "highlights": ["Designed a python program which fetched information from Jira, Confluence and Klocwork servers and generated a report to analyze pending issues to be implemented.",
-                       "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of <b>8-10 hours to 22-30 minutes</b>.", 
-                       "Received a <b>Pre-Placement Offer (PPO)</b> based on outstanding performance and contributions.", 
-                       "<b>Skills Acquired:</b> JIRA, Klocwork, Confluence"]
+      "highlights": [
+        "Designed a python program which fetched information from Jira, Confluence and Klocwork servers and generated a report to analyze pending issues to be implemented.",
+        "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of <b>8-10 hours to 22-30 minutes</b>.",
+        "Received a <b>Pre-Placement Offer (PPO)</b> based on outstanding performance and contributions.",
+        "<b>Skills Acquired:</b> JIRA, Klocwork, Confluence"
+      ]
     },
     {
       "name": "IP Analyzer",
       "location": "Dharwad, India",
       "position": "Cybersecurity Intern",
       "startDate": "2023-05",
-      "highlights": ["Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
-                      "Designed application queries <b>150</b> grey list databases for evaluating host reputation.", 
-                      "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
-                      "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
-                      "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
+      "highlights": [
+        "Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
+        "Designed application queries <b>150</b> grey list databases for evaluating host reputation.",
+        "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.",
+        "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
+        "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"
+      ]
     },
     {
       "name": "Automated Timetable Scheduler",
@@ -39,9 +43,11 @@
       "position": "Research Intern",
       "startDate": "2023-01",
       "endtDate": "2023-09",
-      "highlights": ["Developed a framework capable of creating a timetable catering to needs of any institute considering all general constraints for students, professors, campus, venue capacity etc.",
-                      "Framework easily handles <b>16</b> different constraints on <b>100+ courses</b> and <b>6000+ registrations</b>!", 
-                      "<b>Skills Acquired:</b> Gurobi, Multi-Objective Optimisation, Constraint Satisfaction Problems, Python"]
+      "highlights": [
+        "Developed a framework capable of creating a timetable catering to needs of any institute considering all general constraints for students, professors, campus, venue capacity etc.",
+        "Framework easily handles <b>16</b> different constraints on <b>100+ courses</b> and <b>6000+ registrations</b>!",
+        "<b>Skills Acquired:</b> Gurobi, Multi-Objective Optimisation, Constraint Satisfaction Problems, Python"
+      ]
     },
     {
       "name": "Bacterial Resistance Prediction",
@@ -49,11 +55,12 @@
       "position": "Data Science Intern",
       "startDate": "2023-01",
       "endtDate": "2023-11",
-      "highlights": ["Used several ML models for analyzing Raman spectroscopy data from 3 bacterial strains.",
-                      "Developed an application which classifies bacterial resistance against Colistin with <b>97% accuracy</b> using Raman spectroscopy data.", 
-                      "<b>Skills Acquired:</b> Deep Neural Networks, Convolutional Neural Networks, Machine Learning, Orange3, Python"]
+      "highlights": [
+        "Used several ML models for analyzing Raman spectroscopy data from 3 bacterial strains.",
+        "Developed an application which classifies bacterial resistance against Colistin with <b>97% accuracy</b> using Raman spectroscopy data.",
+        "<b>Skills Acquired:</b> Deep Neural Networks, Convolutional Neural Networks, Machine Learning, Orange3, Python"
+      ]
     }
-    
   ],
   "education": [
     {
@@ -65,9 +72,20 @@
       "startDate": "2021-11",
       "endDate": "2025-05",
       "score": "9.74",
-      "courses": ["Data Strucutres and Algorithms", "Design and Analysis of Algorithms", "Discrete Structures", 
-        "Linear Algebra", "Computer Architecture", "Operating Systems", "Computer Networks", "Software Defined Networking",
-         "Artificial Intelligence", "Mathematics for Data Science", "Probability Models and Applications", "Deep Learning"]
+      "courses": [
+        "Data Strucutres and Algorithms",
+        "Design and Analysis of Algorithms",
+        "Discrete Structures",
+        "Linear Algebra",
+        "Computer Architecture",
+        "Operating Systems",
+        "Computer Networks",
+        "Software Defined Networking",
+        "Artificial Intelligence",
+        "Mathematics for Data Science",
+        "Probability Models and Applications",
+        "Deep Learning"
+      ]
     }
   ],
   "certificates": [
@@ -150,34 +168,12 @@
     {
       "name": "Languages",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C++",
-        "JavaScript",
-        "TypeScript",
-        "C",
-        "Java",
-        "SQL",
-        "PHP"
-      ]
+      "keywords": ["Python", "C++", "JavaScript", "TypeScript", "C", "Java", "SQL", "PHP"]
     },
     {
       "name": "Technologies",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "MongoDB",
-        "Neo4J",
-        "Reddis",
-        "Postgre SQL",
-        "My SQL",
-        "Django",
-        "Angular",
-        "JIRA",
-        "Confluence",
-        "Klocwork",
-        "Orange3",
-        "Gurobi"
-      ]
+      "keywords": ["MongoDB", "Neo4J", "Reddis", "Postgre SQL", "My SQL", "Django", "Angular", "JIRA", "Confluence", "Klocwork", "Orange3", "Gurobi"]
     },
     {
       "name": "Topics",
@@ -233,7 +229,9 @@
     },
     {
       "summary": "Performed in <b>top 1%</b> Class XII Gujarat State Board examination.",
-      "highlights": ["<b>Awarded Scholarship</b> for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) scheme"],
+      "highlights": [
+        "<b>Awarded Scholarship</b> for Higher Education (SHE) under Innovation in Science Pursuit for Inspired Research (INSPIRE) scheme"
+      ],
       "startDate": "2020-04"
     },
     {

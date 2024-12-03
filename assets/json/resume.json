@@ -40,10 +40,11 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Machine Learning Specialization",
+      "startDate": "2022-11",
+      "endDate": "2022-12",
+      "issuer": "Coursera and DeepLearning.AI",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/V7KVWXMG5HAQ",
       "icon": "fa-solid fa-location-dot"
     },
     {
@@ -51,7 +52,7 @@
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Quantum Information",

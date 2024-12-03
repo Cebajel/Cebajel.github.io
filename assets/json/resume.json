@@ -21,7 +21,19 @@
                        "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of <b>8-10 hours to 22-30 minutes</b>.", 
                        "Received a <b>Pre-Placement Offer (PPO)</b> based on outstanding performance and contributions.", 
                        "<b>Skills Acquired:</b> JIRA, Klocwork, Confluence"]
+    },
+    {
+      "name": "IP Analyzer",
+      "location": "Dharwad, India",
+      "position": "Cybersecurity Intern",
+      "startDate": "2023-05",
+      "highlights": ["Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
+                       "Designed application queries <b>150</b> grey list databases for evaluating host reputation.", 
+                       "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.", 
+                       "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
+                       "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"]
     }
+    
   ],
   "education": [
     {
@@ -122,6 +134,7 @@
         "Python",
         "C++",
         "JavaScript",
+        "TypeScript",
         "C",
         "Java",
         "SQL",

@@ -9,7 +9,7 @@ profile:
   image: Cebajel_Tanan.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gandhinagar, Gujarat 382421</p>
+    <p>Gandhinagar, Gujarat, India. PIN: 382421</p>
 
 # <p>555 your office number</p>
 # <p>123 your address street</p>

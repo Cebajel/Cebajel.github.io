@@ -24,7 +24,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a passionate researcher with expertise in machine learning, cybersecurity, and optimization. My research endeavors include using machine learning to enhance bacterial resistance detection and developing an automated timetable scheduler to solve constraint satisfaction problems. I also created a comprehensive IP analyzer tool, funded by [Bharat Police Research and Development (BPR&D)](https://bprd.nic.in), to advance cybersecurity solutions.
+I am a passionate researcher with expertise in machine learning, cybersecurity, and optimization. My research endeavors include using machine learning to enhance bacterial resistance detection and developing an automated timetable scheduler to solve constraint satisfaction problems. I also created a comprehensive IP analyzer tool, funded by [Bureau Police Research and Development (BPR&D)](https://bprd.nic.in), to advance cybersecurity solutions.
 
 Academically, I have consistently excelled, achieving a **perfect 10 GPA** in two consecutive semesters and maintaining a current CGPA of **9.74 on a 10-point scale**. During my two-month tenure at [Texas Instruments](https://www.ti.com), I optimized Python scripts for project issue analysis, reducing runtimes from **8–10 hours to 22–30 minutes**. This accomplishment earned me a **Pre-Placement Offer**, reflecting my ability to deliver impactful and efficient solutions.
 

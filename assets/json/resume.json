@@ -134,6 +134,12 @@
   ],
   "publications": [
     {
+      "name": "A Tool for Comprehensive IP Address Analysis",
+      "publisher": "(Accepted at 17th International Conference on COMmunication Systems & NETworkS Demo)",
+      "releaseDate": "2025-01",
+      "url": "https://www.comsnets.org"
+    },
+    {
       "name": "A Multi-Functional Web Tool for Comprehensive Threat Detection Through IP Address Analysis",
       "publisher": "IEEE Conference on Engineering Informatics(ICEI), Dharwad, India",
       "releaseDate": "2024-11",
@@ -156,12 +162,6 @@
       "publisher": "(Preprint)",
       "releaseDate": "2024-06",
       "url": "https://chemrxiv.org/engage/chemrxiv/article-details/66680bc3409abc034523ce7e"
-    },
-    {
-      "name": "A Tool for Comprehensive IP Address Analysis",
-      "publisher": "(Submitted at International Conference on COMmunication Systems & NETworkS Demo)",
-      "releaseDate": "2024-11",
-      "url": "https://www.comsnets.org"
     }
   ],
   "skills": [

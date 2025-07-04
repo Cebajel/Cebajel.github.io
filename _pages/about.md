@@ -6,10 +6,10 @@ subtitle: <a href='https://www.iitdh.ac.in'>BTech. CSE IIT Dharwad (2021-2025)</
 
 profile:
   align: right
-  image: Cebajel_Tanan.jpg
+  image: Cebajel_Tanan_Photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Gandhinagar, Gujarat, India. PIN: 382421</p>
+    <p>Ahmedabad, Gujarat, India.</p>
 
 # <p>555 your office number</p>
 # <p>123 your address street</p>

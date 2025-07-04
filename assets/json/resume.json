@@ -1,27 +1,23 @@
 {
   "basics": {
     "name": "Cebajel Tanan",
-    "Position": "Senior CSE Undergrad at IIT Dharwad",
+    "Position": "Software Development Engineer at Texas Instruments",
     "image": "",
-    "email": "210010055@iitdh.ac.in",
+    "email": "cebajel@gmail.com",
     "phone": "(+91) 9427358227",
     "url": "https://cebajel.github.io/",
     "summary": "I am a passionate researcher with expertise in machine learning, cybersecurity, and optimization, complemented by academic excellence, diverse extracurricular achievements, and a commitment to innovation and balanced growth.",
-    "location": "Gandhinagar, Gujarat, India. PIN: 382421"
+    "location": "Ahmedabad, Gujarat, India."
   },
   "work": [
     {
-      "name": "Texas Instruments",
-      "location": "Bangaluru, India",
-      "position": "Software Development Intern",
-      "url": "https://www.ti.com",
-      "startDate": "2024-05",
-      "endDate": "2024-07",
+      "name": "Antimicrobial Resistance Prediction",
+      "position": "Data Science Intern",
+      "startDate": "2023-01",
+      "endDate": "2025-07",
       "highlights": [
-        "Designed a python program which fetched information from Jira, Confluence and Klocwork servers and generated a report to analyze pending issues to be implemented.",
-        "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of <b>8-10 hours to 22-30 minutes</b>.",
-        "Received a <b>Pre-Placement Offer (PPO)</b> based on outstanding performance and contributions.",
-        "<b>Skills Acquired:</b> JIRA, Klocwork, Confluence"
+        "Analyzed <b>over 10</b> machine learning models using <b>more than 3</b> dimensionality reduction techniques on Raman spectroscopy data of 3 bacterial strains, resulting in <b>3 publications</b>.",
+        "Developed an application which classifies bacterial resistance against Colistin with <b>97% accuracy</b> using Raman spectroscopy data."
       ]
     },
     {
@@ -30,11 +26,33 @@
       "position": "Cybersecurity Intern",
       "startDate": "2023-05",
       "highlights": [
-        "Developed a web application capable of recognizing black listed IP addresses and domains along with relevant database where it is blacklisted and the reason.",
-        "Designed application queries <b>150</b> grey list databases for evaluating host reputation.",
-        "Used <b>MAD stack</b> for developing the application ensuring scalability, modularity and responsiveness.",
-        "Hosted at <a href='https://ipanalyzer.in/'>ipanalyzer.in</a>.",
-        "<b>Skills Acquired:</b> Django, Angular, Nginx, Python, Typescript, Javascript"
+        "Developed and deployed a web application to recognize malicious IP addresses/domains using multiple sources, resulting in <b>2 publications</b>.",
+        "Designed application queries and processed <b>150+</b> grey list databases using a custom metric to evaluate host reputation, ensuring the latest and reliable information.",
+        "Integrated and processed information from <b>9 sources</b> and displayed it in user-friendly UI which received grants from <b>Nvidia</b> and <b>BPR&D</b> (Bureau of Police Research and Development)."
+      ]
+    },
+    {
+      "name": "Texas Instruments",
+      "location": "Bangaluru, India",
+      "position": "Software Development Intern",
+      "startDate": "2025-01",
+      "endDate": "2025-06",
+      "highlights": [
+        "Enhanced a tool for designing silicon chips by integrating new features using Angular and Django and optimizing its performance, which led to receiving a <b>silver recognition award</b>.",
+        "Developed a lab inventory management system to handle inventories of more than <b>13</b> types of labs across the world.",
+        "Fixed and deployed a tool responsible for testing silicon chips awarding me <b>gold recognition award</b>."
+      ]
+    },
+    {
+      "name": "Texas Instruments",
+      "location": "Bangaluru, India",
+      "position": "Software Development Intern",
+      "startDate": "2024-05",
+      "endDate": "2024-07",
+      "highlights": [
+        "Designed a program which fetched and compiled information from multiple different kinds of sources and generated a report helping teams to analyze pending issues act upon it leading to <b>2x</b> faster workflow.",
+        "Optimized existing scripts used for analyzing issues in the development of projects at Texas Instruments from an average runtime of <b>8-10 hours</b> to <b>22-30 minutes</b>.",
+        "Received a <b>Pre-Placement Offer</b> (PPO) based on outstanding performance and contributions."
       ]
     },
     {
@@ -44,21 +62,8 @@
       "startDate": "2023-01",
       "endtDate": "2023-09",
       "highlights": [
-        "Developed a framework capable of creating a timetable catering to needs of any institute considering all general constraints for students, professors, campus, venue capacity etc.",
-        "Framework easily handles <b>16</b> different constraints on <b>100+ courses</b> and <b>6000+ registrations</b>!",
-        "<b>Skills Acquired:</b> Gurobi, Multi-Objective Optimisation, Constraint Satisfaction Problems, Python"
-      ]
-    },
-    {
-      "name": "Bacterial Resistance Prediction",
-      "location": "Dharwad, India",
-      "position": "Data Science Intern",
-      "startDate": "2023-01",
-      "endtDate": "2023-11",
-      "highlights": [
-        "Used several ML models for analyzing Raman spectroscopy data from 3 bacterial strains.",
-        "Developed an application which classifies bacterial resistance against Colistin with <b>97% accuracy</b> using Raman spectroscopy data.",
-        "<b>Skills Acquired:</b> Deep Neural Networks, Convolutional Neural Networks, Machine Learning, Orange3, Python"
+        "Developed a framework that creates timetables for institutes by considering general constraints for students, professors, campus, and venue capacity, improving scheduling efficiency.",
+        "Handled <b>16</b> different constraints on <b>100+ courses</b> and <b>6000+ registrations</b>, ensuring smooth scheduling and efficient resource allocation."
       ]
     }
   ],
@@ -134,16 +139,22 @@
   ],
   "publications": [
     {
+      "name": "Combating Antimicrobial Resistance: Spectroscopy Meets Machine Learning.",
+      "publisher": "Photonics 2025, 12(7), 672",
+      "releaseDate": "2025-07",
+      "url": "https://doi.org/10.3390/photonics12070672"
+    },
+    {
       "name": "A Tool for Comprehensive IP Address Analysis",
-      "publisher": "(Accepted at 17th International Conference on COMmunication Systems & NETworkS Demo)",
+      "publisher": "17th International Conference on COMmunication Systems & NETworkS Demo Track",
       "releaseDate": "2025-01",
-      "url": "https://www.comsnets.org"
+      "url": "https://www.comsnets.org/archive/2025/demos_exhibits.html"
     },
     {
       "name": "A Multi-Functional Web Tool for Comprehensive Threat Detection Through IP Address Analysis",
       "publisher": "IEEE Conference on Engineering Informatics(ICEI), Dharwad, India",
       "releaseDate": "2024-11",
-      "url": "https://icei2024.iitdh.ac.in/programs/"
+      "url": "https://doi.org/10.1109/ICEI64305.2024.10912188"
     },
     {
       "name": "Validating phosphoethanolamine modification as a potential spectral marker of colistin resistance",
@@ -156,12 +167,6 @@
       "publisher": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 321 (2024): 124723",
       "releaseDate": "2024-11",
       "url": "https://doi.org/10.1016/j.saa.2024.124723"
-    },
-    {
-      "name": "Machine learning assisted Raman spectroscopy to discern the markers associated with colistin Resistance",
-      "publisher": "(Preprint)",
-      "releaseDate": "2024-06",
-      "url": "https://chemrxiv.org/engage/chemrxiv/article-details/66680bc3409abc034523ce7e"
     }
   ],
   "skills": [
@@ -173,7 +178,7 @@
     {
       "name": "Technologies",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["MongoDB", "Neo4J", "Reddis", "Postgre SQL", "My SQL", "Django", "Angular", "JIRA", "Confluence", "Klocwork", "Orange3", "Gurobi"]
+      "keywords": ["MongoDB", "Neo4J", "Reddis", "Postgre SQL", "My SQL", "Oracle SQL", "Django", "Angular", "React", "SpringBoot", "MyBatis", "JIRA", "Confluence", "Klocwork", "Orange3", "Gurobi", "Git"]
     },
     {
       "name": "Topics",
@@ -222,6 +227,11 @@
     }
   ],
   "achievements": [
+    {
+      "summary": "Received <b>TI Global Gold and Silver Recognition Awards</b> owing to my outstanding performance and contributions during Texas Instruments Internship.",
+      "startDate": "2025-06",
+      "endDate": "2025-06"
+    },
     {
       "summary": "Achieved <b>GPA 10</b> on a scale of 10 in <b>two consecutive</b> semesters in bachelors.",
       "startDate": "2022-08",

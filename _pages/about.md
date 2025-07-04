@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.iitdh.ac.in'>BTech. CSE IIT Dharwad (2021-2025)</a>. Karnataka, India.
 
